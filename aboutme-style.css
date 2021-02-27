@@ -1,0 +1,38 @@
+body {
+ background-color: #fad107e2;
+}
+
+hr {
+
+border-width: 2px;
+color: #1b198cf9;
+}
+
+strong
+{
+color: red; 
+}
+
+a {
+color: green; /* Цвет ссылок */
+}
+ h3{
+ 	color: #1b198cf9;
+ }
+ h1
+{
+font-family: Verdana; /*шрифты*/
+}
+ h3
+{
+font-family: Georgia; /*шрифты*/
+}
+
+ p
+{
+font-family: Georgia; /*шрифты*/
+}
+ 
+ li {
+font-family: Cursive; /*шрифты*/
+}
